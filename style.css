@@ -9,7 +9,7 @@ body {
   }
   .heading{
     text-align: right;
-    font-size: 60px;
+    font-size: 80px;
     text-shadow: 0 0 20px #fff, 0 0 10px #fff, 0 0 15px #e0218a;
     position: relative;
     /* z-index: 10; */
